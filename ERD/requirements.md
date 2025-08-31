@@ -4,4 +4,4 @@
 
 ### 3NF Normalized ERD diagram
 
-![3NF - ERD -Diagram](./3NF - ERD -Diagram.png)
+![3NF - ERD - Diagram](./3NF-ERD-Diagram.png")
