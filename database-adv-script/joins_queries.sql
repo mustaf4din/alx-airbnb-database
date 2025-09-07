@@ -1,2 +1,4 @@
 joins_queries.sql
 "SELECT", "INNER JOIN", "FROM"
+"LEFT JOIN", "ORDER BY"
+"FULL OUTER JOIN"
